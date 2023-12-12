@@ -1,108 +1,36 @@
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'SONY\x00'
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'ILCE-7M4\x00'
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 46 - Data Location: 150 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 58 - Data Location: 158 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: Software (305) - type: string (2) Tag Location: 82 - Data Location: 166 - value: <table: 53 bytes>
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 220 - value: b'2023:12:11 13:54:42\x00'
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: Artist (315) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: Copyright (33432) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:23:47,804 - PIL.TiffImagePlugin - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\xf0\x00\x00\x00'
-2023-12-12 15:23:48,199 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:48,199 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:48,199 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:48,684 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:48,800 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:48,866 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:48,935 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:49,286 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'SONY\x00'
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'ILCE-7M4\x00'
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 46 - Data Location: 150 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 58 - Data Location: 158 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: Software (305) - type: string (2) Tag Location: 82 - Data Location: 166 - value: <table: 53 bytes>
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 220 - value: b'2023:12:11 13:54:50\x00'
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: Artist (315) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: Copyright (33432) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:23:49,291 - PIL.TiffImagePlugin - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\xf0\x00\x00\x00'
-2023-12-12 15:23:49,688 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:49,688 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:49,688 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:50,147 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:50,249 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:50,337 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:50,419 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:23:50,815 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:23,182 - PIL.TiffImagePlugin - DEBUG - tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'SONY\x00'
-2023-12-12 15:25:23,183 - PIL.TiffImagePlugin - DEBUG - tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'ILCE-7M4\x00'
-2023-12-12 15:25:23,183 - PIL.TiffImagePlugin - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 46 - Data Location: 150 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:25:23,183 - PIL.TiffImagePlugin - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 58 - Data Location: 158 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:25:23,183 - PIL.TiffImagePlugin - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
-2023-12-12 15:25:23,183 - PIL.TiffImagePlugin - DEBUG - tag: Software (305) - type: string (2) Tag Location: 82 - Data Location: 166 - value: <table: 53 bytes>
-2023-12-12 15:25:23,183 - PIL.TiffImagePlugin - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 220 - value: b'2023:12:11 13:54:42\x00'
-2023-12-12 15:25:23,183 - PIL.TiffImagePlugin - DEBUG - tag: Artist (315) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:25:23,183 - PIL.TiffImagePlugin - DEBUG - tag: Copyright (33432) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:25:23,183 - PIL.TiffImagePlugin - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\xf0\x00\x00\x00'
-2023-12-12 15:25:23,602 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:23,602 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:23,603 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:24,109 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:24,237 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:24,336 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:24,414 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:24,765 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:24,770 - PIL.TiffImagePlugin - DEBUG - tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'SONY\x00'
-2023-12-12 15:25:24,771 - PIL.TiffImagePlugin - DEBUG - tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'ILCE-7M4\x00'
-2023-12-12 15:25:24,771 - PIL.TiffImagePlugin - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 46 - Data Location: 150 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:25:24,771 - PIL.TiffImagePlugin - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 58 - Data Location: 158 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:25:24,771 - PIL.TiffImagePlugin - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
-2023-12-12 15:25:24,771 - PIL.TiffImagePlugin - DEBUG - tag: Software (305) - type: string (2) Tag Location: 82 - Data Location: 166 - value: <table: 53 bytes>
-2023-12-12 15:25:24,771 - PIL.TiffImagePlugin - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 220 - value: b'2023:12:11 13:54:50\x00'
-2023-12-12 15:25:24,771 - PIL.TiffImagePlugin - DEBUG - tag: Artist (315) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:25:24,771 - PIL.TiffImagePlugin - DEBUG - tag: Copyright (33432) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:25:24,771 - PIL.TiffImagePlugin - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\xf0\x00\x00\x00'
-2023-12-12 15:25:25,154 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:25,154 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:25,154 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:25,612 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:25,719 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:25,818 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:25,910 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:25:26,375 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:10,934 - PIL.TiffImagePlugin - DEBUG - tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'SONY\x00'
-2023-12-12 15:26:10,935 - PIL.TiffImagePlugin - DEBUG - tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'ILCE-7M4\x00'
-2023-12-12 15:26:10,935 - PIL.TiffImagePlugin - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 46 - Data Location: 150 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:26:10,935 - PIL.TiffImagePlugin - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 58 - Data Location: 158 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:26:10,935 - PIL.TiffImagePlugin - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
-2023-12-12 15:26:10,935 - PIL.TiffImagePlugin - DEBUG - tag: Software (305) - type: string (2) Tag Location: 82 - Data Location: 166 - value: <table: 53 bytes>
-2023-12-12 15:26:10,935 - PIL.TiffImagePlugin - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 220 - value: b'2023:12:11 13:54:42\x00'
-2023-12-12 15:26:10,935 - PIL.TiffImagePlugin - DEBUG - tag: Artist (315) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:26:10,935 - PIL.TiffImagePlugin - DEBUG - tag: Copyright (33432) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:26:10,935 - PIL.TiffImagePlugin - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\xf0\x00\x00\x00'
-2023-12-12 15:26:11,321 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:11,321 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:11,321 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:11,807 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:11,917 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:11,989 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:12,059 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:12,410 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'SONY\x00'
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'ILCE-7M4\x00'
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 46 - Data Location: 150 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 58 - Data Location: 158 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: Software (305) - type: string (2) Tag Location: 82 - Data Location: 166 - value: <table: 53 bytes>
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 220 - value: b'2023:12:11 13:54:50\x00'
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: Artist (315) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: Copyright (33432) - type: string (2) - value: b'cff\x00'
-2023-12-12 15:26:12,415 - PIL.TiffImagePlugin - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\xf0\x00\x00\x00'
-2023-12-12 15:26:12,796 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:12,796 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:12,797 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:13,252 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:13,353 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:13,438 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:13,511 - PIL.Image - DEBUG - Error closing: fp
-2023-12-12 15:26:13,911 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'SONY\x00'
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'ILCE-7M4\x00'
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 46 - Data Location: 150 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 58 - Data Location: 158 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: Software (305) - type: string (2) Tag Location: 82 - Data Location: 166 - value: <table: 53 bytes>
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 220 - value: b'2023:12:11 13:54:42\x00'
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: Artist (315) - type: string (2) - value: b'cff\x00'
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: Copyright (33432) - type: string (2) - value: b'cff\x00'
+2023-12-12 16:12:10,038 - PIL.TiffImagePlugin - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\xf0\x00\x00\x00'
+2023-12-12 16:12:10,727 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:10,727 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:10,727 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:11,229 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:11,357 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:11,426 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:11,491 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:11,837 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:11,842 - PIL.TiffImagePlugin - DEBUG - tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'SONY\x00'
+2023-12-12 16:12:11,842 - PIL.TiffImagePlugin - DEBUG - tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'ILCE-7M4\x00'
+2023-12-12 16:12:11,843 - PIL.TiffImagePlugin - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 46 - Data Location: 150 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
+2023-12-12 16:12:11,843 - PIL.TiffImagePlugin - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 58 - Data Location: 158 - value: b'\xf0\x00\x00\x00\x01\x00\x00\x00'
+2023-12-12 16:12:11,843 - PIL.TiffImagePlugin - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+2023-12-12 16:12:11,843 - PIL.TiffImagePlugin - DEBUG - tag: Software (305) - type: string (2) Tag Location: 82 - Data Location: 166 - value: <table: 53 bytes>
+2023-12-12 16:12:11,843 - PIL.TiffImagePlugin - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 220 - value: b'2023:12:11 13:54:50\x00'
+2023-12-12 16:12:11,843 - PIL.TiffImagePlugin - DEBUG - tag: Artist (315) - type: string (2) - value: b'cff\x00'
+2023-12-12 16:12:11,843 - PIL.TiffImagePlugin - DEBUG - tag: Copyright (33432) - type: string (2) - value: b'cff\x00'
+2023-12-12 16:12:11,843 - PIL.TiffImagePlugin - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\xf0\x00\x00\x00'
+2023-12-12 16:12:12,229 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:12,230 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:12,230 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:12,683 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:12,784 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:12,876 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:12,963 - PIL.Image - DEBUG - Error closing: fp
+2023-12-12 16:12:13,356 - PIL.Image - DEBUG - Error closing: fp

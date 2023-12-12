@@ -1,45 +1,8 @@
-# semi-utils
+# Marvelous
 
-> [![hugo-papermod](https://img.shields.io/badge/Semi--Utils-@LeslieVan-red)](https://github.com/leslievan/semi-utils)
-> [![download](https://img.shields.io/github/downloads/leslievan/semi-utils/total.svg)](https://github.com/leslievan/semit-utils/releases)
-> [![release](https://img.shields.io/github/v/release/leslievan/semi-utils)](https://github.com/leslievan/semi-utils/releases)
-> [![license](https://img.shields.io/github/license/leslievan/semi-utils)](https://github.com/leslievan/semi-utils/blob/master/LICENSE)
-> ![language](https://img.shields.io/github/languages/top/leslievan/semi-utils?color=orange)
->
 > **这是一个用于给照片批量添加水印、处理照片像素比、图像色彩和质量的工具。**
 
-如果您觉得程序对您有所帮助的话，可以点击 [Sponsor](https://cdn.lsvm.xyz/wechat.jpg) 按钮请作者喝杯咖啡，谢谢！
 
-
-## 开发文档
-
-**[Wiki](../../wiki)**
-
-## 效果展示
-
-||||
-|-|-|-|
-|![](images/1.jpeg)|![](images/2.jpeg)|![](images/3.jpeg)|
-|![](images/4.jpeg)|![](images/5.jpeg)|![](images/6.jpeg)|
-|![](images/7.jpeg)|![](images/8.jpeg)|![](images/9.jpeg)|
-
-
-## 使用方法
-
-> **简要步骤**
->
-> ![](images/steps.png)
-
-### Windows
-
-- 点击[Release](https://github.com/leslievan/semi-utils/releases) 可直接下载压缩包，其中包含可执行文件 `main.exe`、配置文件 `config.yaml`、输入文件夹 `input` 和输出文件夹 `output`。
-- 解压压缩包，比如解压到 `D:\semi-utils`
-- 将需要添加水印的图片复制到 `D:\semi-utils\input` 文件夹中
-- 双击 `D:\semi-utils\main.exe` 运行程序
-- 按照提示输入 `y或回车` 开始执行
-- 处理好的图片存放在 `D:\semi-utils\output` 中
-
----
 
 ### macOS/Linux
 
@@ -50,9 +13,9 @@
   打开命令行/终端，输入：
 
   ```shell
-  # 使用 git 将代码下载到本地，比如 ~/semi-utils，如果要下载到其他路径替换掉下面命令中的路径即可
-  git clone --depth 1 https://github.com/leslievan/semi-utils.git ~/semi-utils
-  cd ~/semi-utils
+  # 使用 git 将代码下载到本地，比如 ~/Marvelous，如果要下载到其他路径替换掉下面命令中的路径即可
+  git clone --depth 1 git@github.com:wscffaa/Marvelous.git ~/Marvelous
+  cd ~/Marvelous
   chmod +x install.sh
   ./install.sh
   ```
@@ -61,34 +24,34 @@
   >
   > 如果命令运行出错可以参考 [常见问题](#常见问题)。
 
-- 将需要添加水印的图片复制到 `~/semi-utils/input` 文件夹中
+- 将需要添加水印的图片复制到 `~/Marvelous/input` 文件夹中
 
 - 打开命令行/终端，输入
 
    ```shell
-   cd ~/semi-utils
-   python3 ~/semi-utils/main.py
+   cd ~/Marvelous
+   python3 ~/Marvelous/main.py
    ```
 
 - 按照提示输入 `y或回车` 开始执行
 
-- 处理好的图片存放在 `~/semi-utils/output` 中
+- 处理好的图片存放在 `~/Marvelous/output` 中
 
 #### 手动下载
 
 <details>
 <summary>点击展开</summary>
 
-- 下载[源码](http://file.lsvm.xyz/semi-utils-latest-source.zip)后解压，比如解压到 `~/semi-utils`，路径需要自行替换。
+- 下载[源码](http://file.lsvm.xyz/Marvelous-latest-source.zip)后解压，比如解压到 `~/Marvelous`，路径需要自行替换。
 
-   > 你可以右键单击解压后的文件夹，按住 Opt 键-选择将xxx拷贝为路径名称 ，用剪贴板中的实际路径替换下面命令中的 `~/semi-utils`.
+   > 你可以右键单击解压后的文件夹，按住 Opt 键-选择将xxx拷贝为路径名称 ，用剪贴板中的实际路径替换下面命令中的 `~/Marvelous`.
 
 - **安装需要的依赖（正式运行前执行一次即可）**
 
    打开命令行/终端，输入：
 
    ```shell
-   cd ~/semi-utils
+   cd ~/Marvelous
    chmod +x install.sh
    ./install.sh
    ```
@@ -97,18 +60,18 @@
    >
    > 如果命令运行出错可以参考 [常见问题](#常见问题)。
 
-- 将需要添加水印的图片复制到 `~/semi-utils/input` 文件夹中
+- 将需要添加水印的图片复制到 `~/Marvelous/input` 文件夹中
 
 - 打开命令行/终端，输入
 
    ```shell
-   cd ~/semi-utils
-   python3 ~/semi-utils/main.py
+   cd ~/Marvelous
+   python3 ~/Marvelous/main.py
    ```
 
 - 按照提示输入 `y或回车` 开始执行
 
-- 处理好的图片存放在 `~/semi-utils/output` 中
+- 处理好的图片存放在 `~/Marvelous/output` 中
 
 
 </details>
@@ -257,62 +220,3 @@ logo:
 
 </details>
 
-## 常见问题
-
-### 运行 `pip install` 时提示 `command not found`
-
-**可能是因为没有安装 Python3**，可以通过以下几种方式安装 Python3。
-
-1. 使用 Homebrew 安装。
-
-   Homebrew 是 Mac 上的软件包管理器，可以轻松地安装许多应用程序和服务。
-
-   - 如果你已经安装了 `brew`，打开终端并输入以下命令来安装 Python3：
-
-     ```shell
-     brew install python3
-     ```
-
-     如果这条命令提示 `command not found`，代表你没有安装 `brew`，跳转下一步。
-
-    - 如果你没有安装 `brew`，打开终端并输入以下命令来安装 Homebrew：
-
-      ```shell
-      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-      ```
-
-      然后输入以下命令来安装 Python3：
-
-      ```shell
-      brew install python3
-      ```
-
-2. 使用 dmg 包安装
-
-   你可以从 [Python 官网](https://www.python.org/downloads/macos/) 下载 Python3 的安装包，选择 Stable Release 下的任一版本即可，推荐 `3.10.11`，然后打开下载好的安装包按照提示安装即可。
-
-**验证安装**
-
-安装完成后，可以使用以下命令来验证 Python3 是否正确安装：
-
-```shell
-python3 --version
-```
-
-此命令将返回已安装的 Python3 版本号。
-
-## 特别感谢
-
-![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)
-
-感谢 [JetBrains](https://jb.gg/OpenSourceSupport) 为本项目提供的开源许可。
-
-## 许可证
-
-Semi-Utils 的发布基于 [Apache License 2.0](LICENSE).
-
-Semi-Utils 引用了 [exiftool](https://exiftool.org/)，其发布基于 [GPL v1 + Artistic License 2.0](https://exiftool.org/#license)。
-
-## 关于
-
-[![Stargazers over time](https://starchart.cc/leslievan/semi-utils.svg)](https://starchart.cc/leslievan/semi-utils)
